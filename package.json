@@ -1,6 +1,6 @@
 {
   "name": "js-data-elasticsearch",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "<img src=\"https://raw.githubusercontent.com/js-data/js-data/master/js-data.png\" alt=\"js-data logo\" title=\"js-data\" align=\"right\" width=\"96\" height=\"96\" />",
   "main": "lib/index.js",
   "scripts": {

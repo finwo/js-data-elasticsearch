@@ -18,7 +18,6 @@
   "homepage": "https://github.com/trackthis/js-data-elasticsearch#readme",
   "devDependencies": {
     "bluebird": "^3.5.1",
-    "co": "^4.6.0",
     "fs-extra": "^5.0.0",
     "jshint": "^2.9.5",
     "mocha": "^5.1.0",
@@ -27,6 +26,7 @@
     "trackthis-helpers": "^0.4.2"
   },
   "dependencies": {
+    "co": "^4.6.0",
     "elasticsearch": "^14.2.2",
     "js-data": "^3.0.2",
     "js-data-adapter": "^0.8.5"

@@ -28,7 +28,7 @@
   "dependencies": {
     "co": "^4.6.0",
     "elasticsearch": "^14.2.2",
-    "js-data": "^3.0.2",
+    "js-data": "^3.0.8",
     "js-data-adapter": "^0.8.5"
   }
 }

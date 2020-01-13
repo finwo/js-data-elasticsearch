@@ -19,7 +19,7 @@
   "devDependencies": {
     "bluebird": "^3.7.2",
     "fs-extra": "^8.1.0",
-    "jshint": "^2.10.3",
+    "jshint": "^2.11.0",
     "mocha": "^6.2.2",
     "nyc": "^15.0.0",
     "serial-mocha": "0.0.4",
